@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/parth10811/project12.git/static/css/main.3096b247.css",
+    "main.js": "/parth10811/project12.git/static/js/main.08990c20.js",
+    "static/media/sunset.jpg": "/parth10811/project12.git/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/parth10811/project12.git/index.html",
+    "main.3096b247.css.map": "/parth10811/project12.git/static/css/main.3096b247.css.map",
+    "main.08990c20.js.map": "/parth10811/project12.git/static/js/main.08990c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3096b247.css",
+    "static/js/main.08990c20.js"
+  ]
+}
